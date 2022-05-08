@@ -1,0 +1,6 @@
+﻿  c express ch9_6.c
+C:\Users\a0060\source\repos\c express ch9_6\c express ch9_6\c express ch9_6.c(34,2): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\a0060\source\repos\c express ch9_6\c express ch9_6\c express ch9_6.c(16): warning C4716: 'absolute': 값을 반환해야 합니다.
+C:\Users\a0060\source\repos\c express ch9_6\c express ch9_6\c express ch9_6.c(25): warning C4716: 'sign': 값을 반환해야 합니다.
+C:\Users\a0060\source\repos\c express ch9_6\c express ch9_6\c express ch9_6.c(10): warning C4716: 'even': 값을 반환해야 합니다.
+  c express ch9_6.vcxproj -> C:\Users\a0060\source\repos\c express ch9_6\x64\Debug\c express ch9_6.exe
